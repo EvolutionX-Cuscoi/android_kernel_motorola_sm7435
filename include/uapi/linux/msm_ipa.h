@@ -1,0 +1,1 @@
+../../../../sm6450-modules/qcom/opensource/dataipa/drivers/platform/msm/include/uapi/linux/msm_ipa.h

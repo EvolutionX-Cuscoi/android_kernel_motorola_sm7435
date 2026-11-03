@@ -1,0 +1,1 @@
+../../../../../sm6450-modules/qcom/opensource/display-drivers/include/uapi/display/hdcp/msm_hdmi_hdcp_mgr.h

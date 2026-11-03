@@ -1,0 +1,1 @@
+../../../../../sm6450-modules/nxp/opensource/driver/include/uapi/linux/nfc/nfcinfo.h
